@@ -120,6 +120,7 @@ def run_reflect(persona):
       persona.a_mem.add_thought(created, expiration, s, p, o, 
                                 thought, keywords, thought_poignancy, 
                                 thought_embedding_pair, evidence)
+      
 
 
 def reflection_trigger(persona): 

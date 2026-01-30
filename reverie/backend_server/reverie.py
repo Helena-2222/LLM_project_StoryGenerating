@@ -14,6 +14,8 @@ import traceback
 import sys
 import io
 
+print(f"CRITICAL DEBUG: The API Key being used is: {os.getenv('OPENAI_API_KEY')}")
+
 # 强制输出编码，防止中文路径或字符崩溃
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')

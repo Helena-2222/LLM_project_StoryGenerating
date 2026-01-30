@@ -1,0 +1,17 @@
+{
+  "Harry Potter": {
+    "maze": "hogwarts_castle",
+    "x": 12,
+    "y": 45
+  },
+  "Hermione Granger": {
+    "maze": "hogwarts_castle",
+    "x": 12,
+    "y": 46
+  },
+  "Ron Weasley": {
+    "maze": "hogwarts_castle",
+    "x": 12,
+    "y": 47
+  }
+}

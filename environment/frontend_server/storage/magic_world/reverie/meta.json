@@ -1,0 +1,13 @@
+{
+  "fork_sim_code": "base_magic_world_trio",
+  "start_date": "September 01, 2023",
+  "curr_time": "September 01, 2023, 00:00:00",
+  "sec_per_step": 10,
+  "maze_name": "hogwarts_castle",
+  "persona_names": [
+    "Harry Potter",
+    "Hermione Granger",
+    "Ron Weasley"
+  ],
+  "step": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Harry Potter": {
+    "maze": "the_ville",
+    "x": 12,
+    "y": 45
+  },
+  "Hermione Granger": {
+    "maze": "the_ville",
+    "x": 12,
+    "y": 46
+  },
+  "Ron Weasley": {
+    "maze": "the_ville",
+    "x": 12,
+    "y": 47
+  }
+}

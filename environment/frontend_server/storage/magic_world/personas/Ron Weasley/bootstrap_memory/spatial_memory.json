@@ -1,0 +1,18 @@
+{
+  "Hogwarts": {
+    "Gryffindor Tower": {
+      "Boys Dormitory": ["bed", "messy trunk", "Quidditch poster"],
+      "Common Room": ["fireplace", "sofa", "Wizard Chess set"]
+    },
+    "Great Hall": {
+      "Gryffindor Table": ["chicken leg platter", "juice goblet", "bench"]
+    },
+    "Quidditch Pitch": {
+      "Changing Room": ["broomstick", "locker"],
+      "Field": ["goal hooper"]
+    },
+    "Owlery": {
+      "Perch": ["Errol", "Pigwidgeon"]
+    }
+  }
+}

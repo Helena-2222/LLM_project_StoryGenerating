@@ -1,0 +1,16 @@
+{
+  "Hogwarts": {
+    "Gryffindor Tower": {
+      "Boys Dormitory": ["bed", "trunk", "window"],
+      "Common Room": ["fireplace", "armchair", "bulletin board"]
+    },
+    "Great Hall": {
+      "Gryffindor Table": ["plate", "goblet"],
+      "High Table": ["owl lectern"]
+    },
+    "Library": {
+      "Restricted Section": ["ancient book"],
+      "Study Area": ["desk", "shelf"]
+    }
+  }
+}

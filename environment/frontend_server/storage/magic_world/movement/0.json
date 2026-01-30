@@ -1,0 +1,25 @@
+{
+  "persona": {
+    "Harry Potter": {
+      "movement": [12, 45],
+      "pronunciatio": "💤",
+      "description": "sleeping @ Hogwarts:Gryffindor Tower:Boys Dormitory:bed",
+      "chat": null
+    },
+    "Hermione Granger": {
+      "movement": [12, 46],
+      "pronunciatio": "💤",
+      "description": "sleeping @ Hogwarts:Gryffindor Tower:Girls Dormitory:bed",
+      "chat": null
+    },
+    "Ron Weasley": {
+      "movement": [12, 47],
+      "pronunciatio": "💤",
+      "description": "sleeping @ Hogwarts:Gryffindor Tower:Boys Dormitory:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "September 01, 2023, 00:00:00"
+  }
+}
